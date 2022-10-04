@@ -1,2 +1,2 @@
-# Sq
+# Soapqueen
 Auto Followers
